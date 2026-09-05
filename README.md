@@ -8,6 +8,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SourikPaul/DSA-with-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0283-move-zeroes) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SourikPaul/DSA-with-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SourikPaul/DSA-with-Java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -65,4 +66,5 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
