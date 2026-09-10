@@ -9,6 +9,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SourikPaul/DSA-with-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/SourikPaul/DSA-with-Java/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SourikPaul/DSA-with-Java/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -78,4 +80,17 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
