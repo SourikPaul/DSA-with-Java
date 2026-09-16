@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/SourikPaul/DSA-with-Java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SourikPaul/DSA-with-Java/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SourikPaul/DSA-with-Java/tree/master/0084-largest-rectangle-in-histogram) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SourikPaul/DSA-with-Java/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0283-move-zeroes) |
