@@ -1,18 +1,23 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int lsf = Integer.MAX_VALUE;
-        int op = 0;
-        int pist = 0;
-        
-        for(int i = 0; i < prices.length; i++){
-            if(prices[i] < lsf){
-                lsf = prices[i];
+       int minPrice = Integer.MAX_VALUE;
+
+        // Initialize the maximum profit to 0
+        int maxProfit = 0;
+
+        // Traverse each price in the array
+        for (int price : prices) {
+            // If current price is less than minPrice, update minPrice
+            if (price < minPrice) {
+                minPrice = price;
             }
-            pist = prices[i] - lsf;
-            if(op < pist){
-                op = pist;
+            // Else calculate profit and update maxProfit if it's greater
+            else {
+                maxProfit = Math.max(maxProfit, price - minPrice);
             }
         }
-        return op;
+
+        // Return the maximum profit found
+        return maxProfit;
     }
 }
