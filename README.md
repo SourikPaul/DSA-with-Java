@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/SourikPaul/DSA-with-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SourikPaul/DSA-with-Java/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SourikPaul/DSA-with-Java/tree/master/0075-sort-colors) |
@@ -46,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SourikPaul/DSA-with-Java/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SourikPaul/DSA-with-Java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -131,5 +133,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SourikPaul/DSA-with-Java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
