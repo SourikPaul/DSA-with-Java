@@ -25,6 +25,7 @@
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SourikPaul/DSA-with-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SourikPaul/DSA-with-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SourikPaul/DSA-with-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SourikPaul/DSA-with-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Stack
@@ -52,6 +53,7 @@
 | [0048-rotate-image](https://github.com/SourikPaul/DSA-with-Java/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0189-rotate-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SourikPaul/DSA-with-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SourikPaul/DSA-with-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Range Minimum/Maximum Query
