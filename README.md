@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SourikPaul/DSA-with-Java/tree/master/0048-rotate-image) |
@@ -41,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SourikPaul/DSA-with-Java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
@@ -85,6 +87,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SourikPaul/DSA-with-Java/tree/master/0075-sort-colors) |
