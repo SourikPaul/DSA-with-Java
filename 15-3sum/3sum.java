@@ -1,33 +1,49 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>();
+        int n =nums.length;
+        List<List<Integer>> threeSum = new ArrayList<>();
         Arrays.sort(nums);
-
-        for (int i = 0; i < nums.length; i++) {
-            if (i > 0 && nums[i] == nums[i-1]) {
+         for (int fixed = 0; fixed < n - 2; fixed++) {
+            if (fixed > 0 && nums[fixed] == nums[fixed - 1]) {
                 continue;
             }
-            
-            int j = i + 1;
-            int k = nums.length - 1;
-
-            while (j < k) {
-                int total = nums[i] + nums[j] + nums[k];
-
-                if (total > 0) {
-                    k--;
-                } else if (total < 0) {
-                    j++;
-                } else {
-                    res.add(Arrays.asList(nums[i], nums[j], nums[k]));
-                    j++;
-
-                    while (nums[j] == nums[j-1] && j < k) {
-                        j++;
+ 
+            int left = fixed + 1;
+            int right = n - 1;
+ 
+            while (left < right) {
+                long sum =
+                    (long) nums[fixed] +
+                    nums[left] +
+                    nums[right];
+                if (sum < 0) {
+                    left++;
+                }
+                else if (sum > 0) {
+                    right--;
+                }
+                else {
+                    threeSum.add(Arrays.asList(
+                        nums[fixed],
+                        nums[left],
+                        nums[right]
+                    ));
+ 
+                    left++;
+                    right--;
+                    while (left < right &&
+                           nums[left] == nums[left - 1]) {
+                        left++;
+                    }
+ 
+                    while (left < right &&
+                           nums[right] == nums[right + 1]) {
+                        right--;
                     }
                 }
             }
         }
-        return res;        
+ 
+        return threeSum;
     }
 }
