@@ -1,24 +1,49 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Set<List<Integer>> threeSum = new HashSet<>();
-        for(int i = 0; i < nums.length; i++){
-            Set<Long> seenValues = new HashSet<>();
-            for(int j = i + 1; j < nums.length; j++){
-                long third = -((long)nums[i] + nums[j]);
-                    if(seenValues.contains(third)){
-                        List<Integer> triplet = new ArrayList<>();
-                        triplet.add(nums[i]);
-                        triplet.add(nums[j]);
-                        triplet.add((int)third);
-
-                        Collections.sort(triplet);
-                        threeSum.add(triplet);
-
+        int n =nums.length;
+        List<List<Integer>> threeSum = new ArrayList<>();
+        Arrays.sort(nums);
+         for (int fixed = 0; fixed < n - 2; fixed++) {
+            if (fixed > 0 && nums[fixed] == nums[fixed - 1]) {
+                continue;
+            }
+ 
+            int left = fixed + 1;
+            int right = n - 1;
+ 
+            while (left < right) {
+                long sum =
+                    (long) nums[fixed] +
+                    nums[left] +
+                    nums[right];
+                if (sum < 0) {
+                    left++;
+                }
+                else if (sum > 0) {
+                    right--;
+                }
+                else {
+                    threeSum.add(Arrays.asList(
+                        nums[fixed],
+                        nums[left],
+                        nums[right]
+                    ));
+ 
+                    left++;
+                    right--;
+                    while (left < right &&
+                           nums[left] == nums[left - 1]) {
+                        left++;
                     }
-                    seenValues.add((long) nums[j]);
-                
+ 
+                    while (left < right &&
+                           nums[right] == nums[right + 1]) {
+                        right--;
+                    }
+                }
             }
         }
-        return new ArrayList<>(threeSum);
+ 
+        return threeSum;
     }
 }
