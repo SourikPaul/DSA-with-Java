@@ -23,6 +23,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SourikPaul/DSA-with-Java/tree/master/0485-max-consecutive-ones) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
@@ -47,6 +48,7 @@
 | [0018-4sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SourikPaul/DSA-with-Java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0229-majority-element-ii) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -108,6 +110,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SourikPaul/DSA-with-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0229-majority-element-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
@@ -118,10 +121,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
