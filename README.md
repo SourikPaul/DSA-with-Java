@@ -21,6 +21,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SourikPaul/DSA-with-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SourikPaul/DSA-with-Java/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/SourikPaul/DSA-with-Java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0229-majority-element-ii) |
@@ -144,6 +145,7 @@
 | [0118-pascals-triangle](https://github.com/SourikPaul/DSA-with-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SourikPaul/DSA-with-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/SourikPaul/DSA-with-Java/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
 | ------- |
