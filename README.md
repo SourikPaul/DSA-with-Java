@@ -15,6 +15,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SourikPaul/DSA-with-Java/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SourikPaul/DSA-with-Java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SourikPaul/DSA-with-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SourikPaul/DSA-with-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@
 | [0015-3sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SourikPaul/DSA-with-Java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0229-majority-element-ii) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
@@ -98,6 +100,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SourikPaul/DSA-with-Java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SourikPaul/DSA-with-Java/tree/master/2149-rearrange-array-elements-by-sign) |
