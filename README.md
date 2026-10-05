@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SourikPaul/DSA-with-Java/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SourikPaul/DSA-with-Java/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/SourikPaul/DSA-with-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SourikPaul/DSA-with-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -116,6 +117,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SourikPaul/DSA-with-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/SourikPaul/DSA-with-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
@@ -176,6 +178,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SourikPaul/DSA-with-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Indexed Tree
 |  |
