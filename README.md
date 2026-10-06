@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/SourikPaul/DSA-with-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SourikPaul/DSA-with-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SourikPaul/DSA-with-Java/tree/master/0054-spiral-matrix) |
@@ -169,6 +170,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0493-reverse-pairs](https://github.com/SourikPaul/DSA-with-Java/tree/master/0493-reverse-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
