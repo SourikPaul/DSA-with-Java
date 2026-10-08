@@ -33,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/SourikPaul/DSA-with-Java/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SourikPaul/DSA-with-Java/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/SourikPaul/DSA-with-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/SourikPaul/DSA-with-Java/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SourikPaul/DSA-with-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -176,6 +177,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/SourikPaul/DSA-with-Java/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/SourikPaul/DSA-with-Java/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
