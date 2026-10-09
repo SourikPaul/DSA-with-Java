@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SourikPaul/DSA-with-Java/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/SourikPaul/DSA-with-Java/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0189-rotate-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SourikPaul/DSA-with-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -177,6 +178,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/SourikPaul/DSA-with-Java/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/SourikPaul/DSA-with-Java/tree/master/0493-reverse-pairs) |
@@ -212,4 +214,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SourikPaul/DSA-with-Java/tree/master/0493-reverse-pairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SourikPaul/DSA-with-Java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
