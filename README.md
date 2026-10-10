@@ -37,6 +37,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SourikPaul/DSA-with-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SourikPaul/DSA-with-Java/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SourikPaul/DSA-with-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SourikPaul/DSA-with-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SourikPaul/DSA-with-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -184,6 +185,7 @@
 | [0493-reverse-pairs](https://github.com/SourikPaul/DSA-with-Java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SourikPaul/DSA-with-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SourikPaul/DSA-with-Java/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SourikPaul/DSA-with-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
