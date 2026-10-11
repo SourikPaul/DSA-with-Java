@@ -24,6 +24,6 @@ class Solution {
                 return false;
             }
         }
-        return hours <= h;
+        return true;
     }
 }
