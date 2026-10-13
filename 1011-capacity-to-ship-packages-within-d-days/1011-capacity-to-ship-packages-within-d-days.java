@@ -10,7 +10,6 @@ class Solution {
         while (low <= high){
             int mid = low + (high - low) / 2;
             if (daysNeeded(weights, mid) <= days){
-                ans = mid;
                 high = mid - 1;
             } else {
                 low = mid + 1;
