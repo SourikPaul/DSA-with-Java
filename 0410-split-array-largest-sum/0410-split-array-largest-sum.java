@@ -22,7 +22,6 @@ class Solution {
     }
 
     private int countSubarrays(int[] nums, int maxSum) {
-
         int count = 1;
         int currentSum = 0;
         for (int num : nums) {
