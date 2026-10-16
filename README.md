@@ -43,6 +43,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SourikPaul/DSA-with-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SourikPaul/DSA-with-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SourikPaul/DSA-with-Java/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SourikPaul/DSA-with-Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SourikPaul/DSA-with-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SourikPaul/DSA-with-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -67,6 +68,7 @@
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0229-majority-element-ii) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SourikPaul/DSA-with-Java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SourikPaul/DSA-with-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SourikPaul/DSA-with-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SourikPaul/DSA-with-Java/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SourikPaul/DSA-with-Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
