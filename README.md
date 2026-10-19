@@ -49,6 +49,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SourikPaul/DSA-with-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SourikPaul/DSA-with-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/SourikPaul/DSA-with-Java/tree/master/2643-row-with-maximum-ones) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SourikPaul/DSA-with-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SourikPaul/DSA-with-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -185,6 +186,7 @@
 | [0048-rotate-image](https://github.com/SourikPaul/DSA-with-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SourikPaul/DSA-with-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0073-set-matrix-zeroes) |
+| [2643-row-with-maximum-ones](https://github.com/SourikPaul/DSA-with-Java/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
