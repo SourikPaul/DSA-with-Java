@@ -1,6 +1,5 @@
-class Solution {  
+class Solution {
     public int[] rowAndMaximumOnes(int[][] mat) {
-
         int maxCount = 0;
         int answer = 0;
         for (int i = 0; i < mat.length; i++) {
@@ -16,6 +15,7 @@ class Solution {
                 answer = i;
             }
         }
+
         return new int[]{answer, maxCount};
     }
 }
