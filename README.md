@@ -50,6 +50,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/SourikPaul/DSA-with-Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SourikPaul/DSA-with-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SourikPaul/DSA-with-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/SourikPaul/DSA-with-Java/tree/master/2643-row-with-maximum-ones) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SourikPaul/DSA-with-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -191,6 +192,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SourikPaul/DSA-with-Java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/SourikPaul/DSA-with-Java/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -215,6 +217,7 @@
 | [1539-kth-missing-positive-number](https://github.com/SourikPaul/DSA-with-Java/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SourikPaul/DSA-with-Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SourikPaul/DSA-with-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1901-find-a-peak-element-ii](https://github.com/SourikPaul/DSA-with-Java/tree/master/1901-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
