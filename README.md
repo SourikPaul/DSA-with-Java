@@ -65,6 +65,7 @@
 | [0394-decode-string](https://github.com/SourikPaul/DSA-with-Java/tree/master/0394-decode-string) |
 | [0853-car-fleet](https://github.com/SourikPaul/DSA-with-Java/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/SourikPaul/DSA-with-Java/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SourikPaul/DSA-with-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | ------- |
 | [0394-decode-string](https://github.com/SourikPaul/DSA-with-Java/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SourikPaul/DSA-with-Java/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SourikPaul/DSA-with-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -262,4 +264,5 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SourikPaul/DSA-with-Java/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SourikPaul/DSA-with-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
