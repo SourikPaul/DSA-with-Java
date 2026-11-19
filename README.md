@@ -85,6 +85,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SourikPaul/DSA-with-Java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SourikPaul/DSA-with-Java/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SourikPaul/DSA-with-Java/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SourikPaul/DSA-with-Java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -99,6 +100,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SourikPaul/DSA-with-Java/tree/master/0013-roman-to-integer) |
 | [0394-decode-string](https://github.com/SourikPaul/DSA-with-Java/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SourikPaul/DSA-with-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SourikPaul/DSA-with-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SourikPaul/DSA-with-Java/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/SourikPaul/DSA-with-Java/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/SourikPaul/DSA-with-Java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SourikPaul/DSA-with-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SourikPaul/DSA-with-Java/tree/master/0169-majority-element) |
