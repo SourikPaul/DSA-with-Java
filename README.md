@@ -100,6 +100,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/SourikPaul/DSA-with-Java/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SourikPaul/DSA-with-Java/tree/master/0013-roman-to-integer) |
 | [0394-decode-string](https://github.com/SourikPaul/DSA-with-Java/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SourikPaul/DSA-with-Java/tree/master/1021-remove-outermost-parentheses) |
